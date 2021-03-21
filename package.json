@@ -1,0 +1,24 @@
+{
+  "name": "flexfeed",
+  "version": "1.0.0",
+  "description": "A flexible feed component intended for content feeds that need to support variable heights and content types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajferrario/flexfeed.git"
+  },
+  "keywords": [
+    "feed",
+    "react-native",
+    "multimedia"
+  ],
+  "author": "Anthony Lai-Ferrario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajferrario/flexfeed/issues"
+  },
+  "homepage": "https://github.com/ajferrario/flexfeed#readme"
+}
